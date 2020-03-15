@@ -17,7 +17,8 @@ The Random Forest model performs better than the SVM model.
 | :---         |     :---:      |          ---: |     :---:      |          ---: |
 | CANDIDATE   | 0.85      | 0.65    | 0.73     | 523    |
 | CONFIRMED   | 0.75       | 0.87       | 0.81       | 594      |
-| FALSE POS   | git status     | git status    | git status     | git status    |
+| FALSE POS   | 0.98     | 1.00    | 0.99     | 1069    |
+| accuracy    |      |     | 0.88     | 2186|
 | micro avg   | git diff       | git diff      | git diff       | git diff      |
 | macro avg   | git status     | git status    | git status     | git status    |
 | weighted avg| git diff       | git diff      | git diff       | git diff      |
