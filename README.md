@@ -8,8 +8,8 @@ The Random Forest model performs better than the SVM model.
 
 ## SVM
 
-	     | With CV | Without CV  
------------- | ------------- |------------- 
+  With CV    |   With CV    |  Without CV
+------------ | ------------ | ------------  
 
 
 
