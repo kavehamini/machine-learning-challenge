@@ -7,10 +7,10 @@ Tools and Technologies used in this project: Python for programming, SVM and Ran
 The Random Forest model performs better than the SVM model.
 
 
-             |   Before CV   |  After CV
------------- | ------------- |-------------
-Training Score	0.85026	0.88777
-Testing Score	0.83898	0.88106
+| -----------  |   With CV      | Without CV    |
+| :---         |     :---:      |          ---: |
+| Training Score | git status     | git status    |
+| Testing Score  | git diff       | git diff      |
 
 
 
