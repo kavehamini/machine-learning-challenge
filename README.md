@@ -13,8 +13,12 @@ The Random Forest model performs better than the SVM model.
 | Testing Score  | 0.83897     | 0.88106    |
 
 
-| Left-aligned | Center-aligned | Right-aligned | Center-aligned | Right-aligned |
+|              | Center-aligned | Right-aligned | Center-aligned | Right-aligned |
 | :---         |     :---:      |          ---: |     :---:      |          ---: |
-| git status   | git status     | git status    | git status     | git status    |
-| git diff     | git diff       | git diff      | git diff       | git diff      |
+| CANDIDATE   | git status     | git status    | git status     | git status    |
+| CONFIRMED   | git diff       | git diff      | git diff       | git diff      |
+| FALSE POS   | git status     | git status    | git status     | git status    |
+| micro avg   | git diff       | git diff      | git diff       | git diff      |
+| macro avg   | git status     | git status    | git status     | git status    |
+| weighted avg| git diff       | git diff      | git diff       | git diff      |
  
