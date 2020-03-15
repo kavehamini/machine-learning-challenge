@@ -21,6 +21,4 @@ Testing Score | 0.83897 | 0.88106
 
 First Header | Second Header | First Header | Second Header
 ------------ | ------------- |------------- | ------------- 
-
-Content from cell 1 | Content from cell 2 | Content from cell 3 | Content from cell 4
 Content from cell 1 | Content from cell 2 | Content from cell 3 | Content from cell 4
