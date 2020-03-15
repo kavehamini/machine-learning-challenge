@@ -28,8 +28,8 @@ The Random Forest model performs better than the SVM model.
 
 |              |   With CV      | Without CV    |
 | :---         |     :---:      |          ---: |
-| Training Score | 0.99435     | 0.88777    |
-| Testing Score  | 0.83897     | 0.88106    |
+| Training Score |  1.0    | 0.99435   | 
+| Testing Score  |   0.89478  | 0.83897    | 
 
 
 |              | precision | recall | f1-score | support |
@@ -43,5 +43,3 @@ The Random Forest model performs better than the SVM model.
 
 
 
-0.9943580359865812
-0.8838060384263495
